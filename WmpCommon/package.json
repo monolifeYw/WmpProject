@@ -1,0 +1,13 @@
+{
+  "name": "WmpJs",
+  "title": "WmpJs",
+  "version": "0.0.1",
+  "description": "We make price PC Website Common Javascript",
+  "main": "dist/WmpJs.js",
+  "homepage": "http://www.wemakeprice.com/",
+  "author": "Wmp Platform team+Leeyoonwoo",
+  "license": "WMP",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
